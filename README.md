@@ -30,22 +30,16 @@ analytics_env\Scripts\activate      # on windows
 
 pip install -r requirements.txt
 
-▶️ Usage
+ ## ▶️ Usage
 
 Run the app with:
 
 streamlit run app.py
 
-🤝 Contributing
+ ## 🤝 Contributing
 
 Pull requests are welcome!
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
-
-
----
-
-👉 Just create a file called **`README.md`** in your repo root and paste this in.  
-Want me to also create a **requirements.txt** for you so others can install it easily?
