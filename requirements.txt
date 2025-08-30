@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+sqlalchemy
+ydata-profiling
+sweetviz
+autoviz
+pycaret
+openai
+python-dotenv
+xlsxwriter
+openpyxl
